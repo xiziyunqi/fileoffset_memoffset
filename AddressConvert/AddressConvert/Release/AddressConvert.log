@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/3/11 11:13:57。
+     1>项目“G:\github\AddressConvert\AddressConvert\AddressConvert.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\AddressConvert.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AddressConvert.cpp
+         AddressConvert.cpp
+     1>AddressConvert.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\github\AddressConvert\Release\AddressConvert.exe" /NOLOGO /MANIFEST /ManifestFile:"Release\AddressConvert.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\github\AddressConvert\Release\AddressConvert.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\github\AddressConvert\Release\AddressConvert.lib" /MACHINE:X86 Release\AddressConvert.obj
+         正在生成代码
+         已完成代码的生成
+         AddressConvert.vcxproj -> G:\github\AddressConvert\Release\AddressConvert.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\github\AddressConvert\Release\AddressConvert.exe;#1" /manifest Release\AddressConvert.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\AddressConvert.unsuccessfulbuild”。
+         正在对“Release\AddressConvert.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\github\AddressConvert\AddressConvert\AddressConvert.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.45

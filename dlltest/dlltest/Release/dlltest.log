@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/3/6 19:15:55。
+     1>项目“G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\dlltest\dlltest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\dlltest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\dlltest.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\dlltest.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dlltest.cpp
+         dlltest.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.dll" /INCREMENTAL:NO /NOLOGO /DEF:".\dlltest.def" /MANIFEST /ManifestFile:"Release\dlltest.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.lib" /MACHINE:X86 /DLL Release\dlltest.res
+         Release\dlltest.obj
+         Release\stdafx.obj
+            正在创建库 G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.lib 和对象 G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.exp
+         正在生成代码
+         已完成代码的生成
+         dlltest.vcxproj -> G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\Release\dlltest.dll;#2" /manifest Release\dlltest.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\dlltest.unsuccessfulbuild”。
+         正在对“Release\dlltest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\keti\拾遗\20151229C++实现的壳基础版\扩展板破解\pojie\dlltest\dlltest\dlltest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.20
